@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css"; // Custom styles
-import Weather from "./components/weathergit "; // Correct import path for Weather component
+import Weather from "./components/weather "; // Correct import path for Weather component
 
 const API_KEY = '74ab65fda57a01632018ee36b957735a';
 
